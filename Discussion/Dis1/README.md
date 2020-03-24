@@ -11,3 +11,14 @@ D. Clark: "The Design Philosophy of the DARPA Internet Protocols", Proceedings o
 M Blumenthal, D. Clark, "Rethinking the design of the Internet: The end to end arguments vs. the brave new world" ACM Trans. on Internet Technology ,2001
 
 论文在 Resources 文件夹可以找到
+
+
+
+**参考博客**
+
+[对《End-to-End Arguments in System》理解文章的整理](<https://www.cnblogs.com/wuplus/archive/2012/06/26/2563820.html>)
+
+[DARPA网络协议设计的理念](<https://wenku.baidu.com/view/53737a36f111f18583d05ace.html?qq-pf-to=pcqq.discussion>)
+
+[简译The Design Philosophy of the DARPA Internet Protocols](https://blog.csdn.net/ba12346/article/details/8659217)
+
