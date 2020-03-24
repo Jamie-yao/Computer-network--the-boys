@@ -20,3 +20,5 @@ M Blumenthal, D. Clark, "Rethinking the design of the Internet: The end to end a
 
 [DARPA网络协议设计的理念](<https://wenku.baidu.com/view/53737a36f111f18583d05ace.html?qq-pf-to=pcqq.discussion>)
 
+[简译The Design Philosophy of the DARPA Internet Protocols](https://blog.csdn.net/ba12346/article/details/8659217)
+
