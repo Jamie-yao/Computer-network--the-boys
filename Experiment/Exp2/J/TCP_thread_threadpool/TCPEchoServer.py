@@ -5,7 +5,7 @@ import socket,threading
 
 def server():
     # 1. 创建套接字
-    s = socket.socket()
+    s = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
     # 2. 绑定
     HOST = '0.0.0.0'
     PORT = 6666
