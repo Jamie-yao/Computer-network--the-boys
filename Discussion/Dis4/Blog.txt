@@ -1,4 +1,5 @@
-排队论：   https://wiki.mbalib.com/wiki/%E6%8E%92%E9%98%9F%E8%AE%BA
+﻿排队论：   https://wiki.mbalib.com/wiki/%E6%8E%92%E9%98%9F%E8%AE%BA
 常用的网络性能数学分析法：   https://wenku.baidu.com/view/df8bd52c7375a417866f8fbb.html
 基于排队论的网络通信系统的建模与分析    http://kjgcdx.cnjournals.com/ch/reader/create_pdf.aspx?file_no=20020317&flag=1&journal_id=kjgcdxxb&year_id=2002
+排队论思想讨论信道多路复用效率：	https://wenku.baidu.com/view/daa4193300f69e3143323968011ca300a6c3f6b7.html?tdsourcetag=s_pctim_aiomsg&qq-pf-to=pcqq.c2c
 
